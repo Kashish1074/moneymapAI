@@ -136,6 +136,11 @@ streamlit run app.py
 
 - Improved project documentation.
 
+## Future Improvements
+
+- Enhanced UI
+- More AI-powered insights
+
 ## 👨‍💻 Author
 
 **Kashish**
