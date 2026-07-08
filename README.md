@@ -132,6 +132,9 @@ streamlit run app.py
 * 🎤 Voice-based AI financial advisor
 
 ---
+## Changelog
+
+- Improved project documentation.
 
 ## 👨‍💻 Author
 
